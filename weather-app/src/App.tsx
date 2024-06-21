@@ -15,7 +15,7 @@ function App() {
   };
   return (
     <div className="flex items-center justify-center min-h-screen bg-slate-600">
-      <div className="bg-gradient-to-r from-blue-400 to-green-400 shadow-md rounded-lg p-7 m-2 max-w-md w-full">
+      <div className="bg-gradient-to-r from-cyan-400 to-fuchsia-600 shadow-md rounded-lg p-7 m-2 max-w-md w-full">
         <h1 className="text-4xl text-center font-bold text-white">
           Weather Report
         </h1>
